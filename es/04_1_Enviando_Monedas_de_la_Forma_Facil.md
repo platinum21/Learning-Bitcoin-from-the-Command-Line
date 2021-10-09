@@ -60,6 +60,7 @@ Recibirá un txid de vuelta cuando utilice este comando.
 ## Examinando la Transacción
 
 Puede ver la transacción utilizando el id de la transacción:
+Para ello usaremos el comando bitcoin-cli gettransaction + (txid)
 ```
 {
   "amount": -0.00100000,
